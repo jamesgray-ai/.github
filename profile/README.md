@@ -2,37 +2,16 @@
 
 Teaching professionals to build AI systems, not just use them.
 
-## Courses
+## Hands-on AI Cookbook
 
-### [Claude and Claude Code for Builders](https://github.com/JamesGray-AI/claude-for-builders)
+Curated AI knowledge for builders — practical guides, patterns, ready-made tools, and structured courses to help you apply AI faster and accelerate business impact.
 
-Transform from a Claude user into a Claude builder. This 5-week cohort-based program teaches you to create scalable AI systems using the complete builder stack.
+[Browse the Cookbook →](https://handsonai.info/)
 
-**What you'll build:**
-- Production-ready Claude Skills deployable across platforms
-- Multi-agent systems that execute tasks autonomously
-- Browser automations for repetitive workflows
-- Web applications using agentic coding methods
+### Courses
 
-**Format:** 5 weeks | 2 live sessions/week | 4-6 hours/week
-
-[Enroll on Maven →](https://maven.com/james-gray/claude)
-
----
-
-### [Hands-on Agentic AI for Leaders](https://github.com/JamesGray-AI/agentic-ai-for-leaders)
-
-A hands-on program for leaders who need to understand AI capabilities—not just conceptually, but through building. Ship production workflows that save 5-10 hours weekly.
-
-**What you'll learn:**
-- Workflow systematization and AI asset management
-- Agent Skills development for operational tasks
-- Browser workflow automation
-- Autonomous agent deployment across platforms
-
-**Format:** 4 weeks | Dual time slots | 4-6 hours/week | No coding required
-
-[Enroll on Maven →](https://maven.com/james-gray/hands-on-ai-for-leaders)
+- **[Claude & Claude Code for Builders](https://maven.com/james-gray/claude)** — Transform from a Claude user into a Claude builder. 5 weeks, hands-on, cohort-based.
+- **[Agentic AI for Leaders](https://maven.com/james-gray/hands-on-ai-for-leaders)** — A hands-on program for leaders who need to understand AI capabilities through building. No coding required.
 
 ---
 
